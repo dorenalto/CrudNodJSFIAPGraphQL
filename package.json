@@ -1,0 +1,22 @@
+{
+  "name": "mob20-nodejs_AtividadeGraphQL-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "-": "0.0.1",
+    "apollo-server": "^2.19.1",
+    "express": "^4.17.1",
+    "graphql": "^15.4.0",
+    "graphql-import": "^1.0.2",
+    "graphql-tools": "^7.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
